@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+*{
+    background-color: rgb(238, 227, 227);
+   
+}
+
+#bandeira{
+    width: 180px;
+    height:100px ;
+}
+#title{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(186, 16, 16);
+    
+}
+
+#first{
+    width: 1410px;
+    height: 540px;
+}
+
+#sub_title{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(186, 16, 16);
+    
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#geo{
+    width: 1410px;
+    height: 540px;
+}
+
+#gov{
+    width: 1410px;
+    height: 540px;
+}
+
+#clima{
+    width: 1410px;
+    height: 540px; 
+}
+
+#video{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
